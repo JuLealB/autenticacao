@@ -1,0 +1,1 @@
+[{"login":"calopsita@gmail.com","senha":"fazol","cargo":"admin"},{"login":"sara@gmail.com","senha":"1234","cargo":"admin"},{"login":"gabriela@gmail.com","senha":"5432","cargo":"admin"},{"login":"danolo@gmail.com","senha":"bruni","cargo":"padrao"},{"login":"canila@gmail.com","senha":"silva","cargo":"padrao"}]
